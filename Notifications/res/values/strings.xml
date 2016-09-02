@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="notif_down_file">下载文件</string>
+<string name="downloadSuccess">下载成功</string>
+<string name="downloadFailure">下载失败</string>
+</resources>
